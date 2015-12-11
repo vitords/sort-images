@@ -7,7 +7,7 @@ The only dependency is exifread, so...
 $ pip install exifread
 ```
 
-Made this to help me organize lost pictures I had to recover from a faculty backup.
+Made this to help me organize lost pictures I had to recover from a faulty backup.
 Saved me a lot of hours, so maybe it may be useful to someone else.
 
 Note that I made it specifically to fit my needs at the time, so you'll have to make some simple changes for it to suit you.
